@@ -1,0 +1,46 @@
+html,body,.container-height,.row-height{
+	height: 100%;
+}
+#nav-bar {
+    height: 100%;
+    background-color: #eee;
+}
+#content{
+	height: 100%;
+    padding: 0 0 0 0 ;
+}
+.wrapper{
+	height: 100%;
+	padding-bottom:40px;
+	background-color: #96B3CC;
+}
+#header{
+	height: 40px;
+	background-color: black;
+}
+#main{
+	height: 100%;
+}
+#footer{
+	height:40px;
+	margin-top:-40px;
+	background-color: #ffc0cb;
+}
+#userdiv{
+	height: 40px;
+	width: 40px;
+	float: right;
+	margin-right: 100px;
+	background-color: pink;
+}
+.user-button{
+	width:40px;
+	height:40px;
+	border: 1px solid #e4007e;
+	text-align: center;
+	line-height: 40px;
+	font-weight: bold;
+	background: burlywood;
+	border-radius: 50%;
+	margin-right: 100px;
+}
